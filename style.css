@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@700&display=swap');
+
+body {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #211A29;
+    color:#FFFFFF;
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight:700;
+    flex-flow:column;
+
+}
+
+.announcement {
+    margin-top:90px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:22px;
+    letter-spacing:7.5px
+   ;
+
+
+   
+}
+
+
+.countdown {
+    margin-top:100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+   ;
+
+}
+.counter {
+width:96px;
+height:72px;
+margin-left:13px;
+margin-right:13px;
+line-height:71px;
+background-color: #343650;
+border-radius:8px;
+align-items:center;
+justify-content:center;
+font-size:80px;
+color:#FB5E84;
+padding:34px 26px 34px 26px;
+}
+
